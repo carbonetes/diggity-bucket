@@ -1,0 +1,15 @@
+{
+    "version": "1.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/carbonetes/diggity/releases/download/v1.2.1/diggity_1.2.1_windows_amd64.zip",
+            "bin": [
+                "diggity.exe"
+            ],
+            "hash": "13deaf91e07192a4a12d17ce9dbf40899dc4958e8a635dec1777132b8145f120"
+        }
+    },
+    "homepage": "https://www.carbonetes.com/",
+    "license": "Apache License 2.0",
+    "description": "BOM Diggity’s primary purpose is to ensure the security and integrity of software programs. It incorporates secret analysis allowing the user to secure crucial information before deploying any parts of the application to the public."
+}
