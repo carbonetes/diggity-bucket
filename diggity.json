@@ -1,12 +1,12 @@
 {
-    "version": "1.5.2",
+    "version": "1.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/carbonetes/diggity/releases/download/v1.5.2/diggity_1.5.2_windows_amd64.zip",
+            "url": "https://github.com/carbonetes/diggity/releases/download/v1.6.0/diggity_1.6.0_windows_amd64.zip",
             "bin": [
                 "diggity.exe"
             ],
-            "hash": "dcae521f19c5d5509e62b9b398851061e477da81780805792fe26134a1f490ce"
+            "hash": "d3492f163a669ed2156b37ba3c2bf9b1f0d98c22de8680f9a6a9de7549f71b4b"
         }
     },
     "homepage": "https://www.carbonetes.com/",
